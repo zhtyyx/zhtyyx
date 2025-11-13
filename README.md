@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhtyyx
 - 👀 I’m interested in Python related projects, data crawling, data processing and so on...
-- 🌱 I’m currently learning VUE and reactjs
+- 🌱 I’m author of IOE 进销存系统，Shibei科研助手
 - 💞️ I’m looking to collaborate on any interesting projects
 - 📫 How to reach me: zhtyyx@gmail.com
 
