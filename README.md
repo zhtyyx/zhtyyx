@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhtyyx
 - 👀 I’m interested in Python related projects, data crawling, data processing and so on...
-- 🌱 I’m author of IOE 进销存系统，Shibei科研助手(https://shibei.xianist.com)
+- 🌱 I’m author of IOE 进销存系统(ioea.xianist.com)，Shibei科研助手(https://shibei.xianist.com)
 - 💞️ I’m looking to collaborate on any interesting projects
 - 📫 How to reach me: zhtyyx@gmail.com
 
